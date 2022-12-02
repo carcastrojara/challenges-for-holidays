@@ -10,3 +10,4 @@ Algunos retos divertidos para realizar en tus vacaciones
 1. [Pomodoro timer](./01-pomodoro-timer/)
 2. [eCommerce](./02-eCommerce/)
 3. [Keyboard Piano](./03-keyboard-piano/)
+4. [Computer keyboard](./04-computer-keyboard/)
