@@ -19,3 +19,4 @@ Algunos retos divertidos para realizar en tus vacaciones
 10. [Verification Code Form](./10-verification-code-form/)
 11. [Collapsing Sections](./11-collapsing-sections/)
 12. [Rock, Paper, Scissors Game](./12-rock-paper-scissors-game/)
+13. [Custom Modal](./13-custom-modal/)
