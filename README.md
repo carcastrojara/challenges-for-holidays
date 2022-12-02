@@ -16,3 +16,4 @@ Algunos retos divertidos para realizar en tus vacaciones
 7. [Tip Calculator](./07-tip-calculator/)
 8. [Weather Forecast](./08-weather-forecast/)
 9. [Image Carousel](./09-image-carousel/)
+10. [Verification Code Form](./10-verification-code-form/)
