@@ -13,3 +13,4 @@ Algunos retos divertidos para realizar en tus vacaciones
 4. [Computer keyboard](./04-computer-keyboard/)
 5. [Podcast Episode List](./05-podcast-episode-list/)
 6. [Range Slider](./06-range-slider/)
+7. [Tip Calculator](./07-tip-calculator/)
