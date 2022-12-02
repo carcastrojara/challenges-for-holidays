@@ -14,3 +14,4 @@ Algunos retos divertidos para realizar en tus vacaciones
 5. [Podcast Episode List](./05-podcast-episode-list/)
 6. [Range Slider](./06-range-slider/)
 7. [Tip Calculator](./07-tip-calculator/)
+8. [Weather Forecast](./08-weather-forecast/)
